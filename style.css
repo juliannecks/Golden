@@ -1,0 +1,141 @@
+.company-logo{
+    font-family: Bilbo Swash Caps;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 1.2999999523162842px;
+    color: #FED136;
+    text-decoration: none; 
+    margin-left: 265px;  
+}
+
+.company-logo, .nav-list-item{
+    display: inline-block;
+}
+
+.nav-list-item{
+    margin-right: 30px;
+}
+
+.nav-list{
+    list-style: none;
+    text-align: right;
+    margin-right: 225px;
+}
+
+.nav-list-link{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 41px;
+    letter-spacing: 0px;
+    color: #FED136;
+    text-decoration: none;   
+}
+
+.hero-title{
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: -1px;
+    color: #222222;
+    text-align: center;
+    margin: 85px;
+}
+
+.hero-list{
+    list-style: none;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.hero-list-image{
+    margin: 20px;
+}
+
+.hero-list-item{
+    text-align: center;
+    display: inline-block;
+    margin-right: 45px;
+    box-sizing: content-box;
+}
+
+.hero-list-title{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: -0.44999998807907104px;
+    color: #222222;
+    margin: -30px;
+    padding: 0px;
+}
+
+.hero-list-text{
+    font-family: RobotoSlab;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: -0.3499999940395355px;
+    color: #777777;
+    
+}
+
+.contact{
+    background-color: #222222;
+}
+
+.contact-title{
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 49px;
+    letter-spacing: -1px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 100px;    
+}
+
+.form-list{
+    list-style: none;
+}
+
+.form-list-input{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.3499999940395355px;
+    color: #BBBBBB;
+    border: 1px solid #CCCCCC;
+}
+
+.form-list-textarea{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: -0.3499999940395355px;
+    color: #BBBBBB;
+    border: 1px solid #CCCCCC;
+}
+
+.contact-btn{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    background-color: #FED136;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 125px;
+    padding-top: 10px;
+    padding-bottom: 15px; 
+    padding-left: 35px;
+    padding-right: 35px;
+    position: relative;
+    left: 42%;
+}
